@@ -12,7 +12,7 @@ public class Main {
 
     WebDriver driver;
     String name ="janusztestowy";
-    String password ="***";
+    String password ="*******";
 
     @BeforeEach
     public void Inizialize()
